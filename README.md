@@ -3,7 +3,6 @@ Small changes, big impact — discover how your lifestyle choices affect the pla
 
 This project is an interactive web app built with Streamlit that allows users to estimate their monthly and yearly carbon footprint based on their lifestyle habits. It also provides visual breakdowns, global comparisons, doomsday clock awareness, and practical tips for reducing emissions.
 The goal is not only to estimate emissions but also to raise awareness and encourage individuals to adopt sustainable practices.
-
 Features:
 Carbon Footprint Prediction using a trained ML model (scikit-learn)
 Category-wise Emission Breakdown (electricity, travel, diet, shopping, water usage)
@@ -33,10 +32,6 @@ Machine Learning: scikit-learn (Linear Regression, Ridge, Random Forest)
 Model Persistence: joblib
 Report Generation: ReportLab (PDF export)
 
-License
-This project is licensed under the MIT License.
-Feel free to use, modify, and share with attribution.
-
 Acknowledgements
 Bulletin of the Atomic Scientists — Doomsday Clock reference
 IPCC Reports — Global emission averages and sustainable targets
@@ -44,5 +39,3 @@ Streamlit Community — For making ML apps simple and beautiful
 
 Your choices shape the future. Measure, visualize, and reduce your impact today!
 water_usage → Liters/day
-
-carbon_footprint → Target variable (calculated using emission factors)

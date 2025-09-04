@@ -1,5 +1,4 @@
-🌍 Carbon Footprint Estimator
-Small changes, big impact — discover how your lifestyle choices affect the planet.
+🌍 Carbon Footprint Estimator                                                                                                                                                         Small changes, big impact — discover how your lifestyle choices affect the planet.
 
 This project is an interactive web app built with Streamlit that allows users to estimate their monthly and yearly carbon footprint based on their lifestyle habits. It also provides visual breakdowns, global comparisons, doomsday clock awareness, and practical tips for reducing emissions.
 The goal is not only to estimate emissions but also to raise awareness and encourage individuals to adopt sustainable practices.

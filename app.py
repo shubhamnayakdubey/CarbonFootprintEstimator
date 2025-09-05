@@ -29,14 +29,11 @@ st.markdown("""
 
     h1, h2, h3, h4 {
         font-family: 'Inter', sans-serif !important;
-        font-weight: 700 !important; /* bold for headings */
-        color: #2C3E50; /* dark slate for contrast */
+        font-weight: 610 !important; /* bold for headings */
     }
 
     p, div, span, label {
-        font-family: 'Inter', sans-serif !important;
-        font-weight: 400 !important; /* normal for body */
-        line-height: 1.6; /* better readability */
+        font-weight: 550 !important; /* normal for body */
     }
     </style>
     """, unsafe_allow_html=True)
@@ -383,4 +380,5 @@ with tab6:
             file_name="carbon_footprint_report.pdf",
             mime="application/pdf",
         )
+
 

@@ -39,7 +39,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Title & Subtitle
-st.title("🌍 Carbon Footprint Estimator")
+st.title("🌍 Analyze your Carbon Footprint ")
 st.markdown(
     "Small changes, big impact--discover how your daily habits affect the planet. "
     "Your choices shape the planet--measure, visualize, and reduce your impact today!"
@@ -380,5 +380,6 @@ with tab6:
             file_name="carbon_footprint_report.pdf",
             mime="application/pdf",
         )
+
 
 
